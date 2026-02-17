@@ -5,7 +5,6 @@ Exercício de lógica de programação em C: Implementação de um verificador d
 
 Este repositório contém um algoritmo desenvolvido em **C** que identifica se um número inteiro é considerado um **Número Perfeito**. Este projeto faz parte dos meus estudos de lógica de programação e fundamentos de matemática computacional.
 
-
 ## 🛠️ Tecnologias Utilizadas
 
 - **Linguagem:** C
